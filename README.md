@@ -1,4 +1,4 @@
-# Cohort_Analysis_-_Customer_Segmentation_with_RFM
+# Cohort_Analysis - Customer_Segmentation_with_RFM
 
 ## Overview
 This project focuses on cohort analysis and customer segmentation using the RFM (Recency, Frequency, Monetary) model. The analysis aims to provide actionable insights into customer behavior and retention strategies.
